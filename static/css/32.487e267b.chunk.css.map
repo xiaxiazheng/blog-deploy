@@ -1,1 +1,0 @@
-{"version":3,"sources":["index.module.scss"],"names":[],"mappings":"AAAA,gBACI,YAAa,CACb,cAAe,CACf,eAAgB,CAChB,eAAgB","file":"32.487e267b.chunk.css","sourcesContent":[".log {\r\n    padding: 30px;\r\n    font-size: 14px;\r\n    white-space: pre;\r\n    text-align: left;\r\n}"]}
