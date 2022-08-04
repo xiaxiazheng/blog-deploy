@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/views/test-page/drag-zoom/index.module.scss"],"names":[],"mappings":"AAAA,4BACI,gBAAiB,CACjB,cAAe","file":"43.3b57c301.chunk.css","sourcesContent":[".drag_zoom {\n    padding-top: 50px;\n    font-size: 16px;\n}"]}
