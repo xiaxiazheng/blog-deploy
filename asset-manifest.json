@@ -25,7 +25,7 @@
     "Log.css": "/static/css/Log.08040abc.chunk.css",
     "Log.js": "/static/js/Log.ac4e6a43.chunk.js",
     "MaoPu.css": "/static/css/MaoPu.8c0bfaef.chunk.css",
-    "MaoPu.js": "/static/js/MaoPu.9554a19b.chunk.js",
+    "MaoPu.js": "/static/js/MaoPu.24e54352.chunk.js",
     "Media.css": "/static/css/Media.60467794.chunk.css",
     "Media.js": "/static/js/Media.77ad0a01.chunk.js",
     "MindMap.css": "/static/css/MindMap.b763eaef.chunk.css",
@@ -44,7 +44,7 @@
     "Tree.js": "/static/js/Tree.d74e0bd6.chunk.js",
     "main.css": "/static/css/main.f188eec8.chunk.css",
     "main.js": "/static/js/main.55f3c0e7.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.e707c021.js",
+    "runtime-main.js": "/static/js/runtime-main.10a826e6.js",
     "static/css/25.ce285767.chunk.css": "/static/css/25.ce285767.chunk.css",
     "static/js/25.597024f0.chunk.js": "/static/js/25.597024f0.chunk.js",
     "static/css/26.dc3d2c97.chunk.css": "/static/css/26.dc3d2c97.chunk.css",
@@ -148,7 +148,7 @@
     "static/media/index.module.scss": "/static/media/login.f3336f08.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e707c021.js",
+    "static/js/runtime-main.10a826e6.js",
     "static/js/35.5606a27d.chunk.js",
     "static/css/main.f188eec8.chunk.css",
     "static/js/main.55f3c0e7.chunk.js"
