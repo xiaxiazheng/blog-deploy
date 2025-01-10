@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/views/log/index.module.scss"],"names":[],"mappings":"AAAA,gBACI,YAAA,CACA,cAAA,CACA,eAAA,CACA,eAAA","file":"Log.0e9436a8.chunk.css","sourcesContent":[".log {\n    padding: 30px;\n    font-size: 14px;\n    white-space: pre;\n    text-align: left;\n}"]}
