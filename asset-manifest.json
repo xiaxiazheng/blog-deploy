@@ -32,13 +32,13 @@
     "Settings.js": "/static/js/Settings.407b185a.chunk.js",
     "TestPage.css": "/static/css/TestPage.a973c113.chunk.css",
     "TestPage.js": "/static/js/TestPage.61f1cdce.chunk.js",
-    "Todo.css": "/static/css/Todo.5951b235.chunk.css",
+    "Todo.css": "/static/css/Todo.3cd3d93d.chunk.css",
     "Todo.js": "/static/js/Todo.e71aa49e.chunk.js",
     "Tree.css": "/static/css/Tree.37335aa9.chunk.css",
     "Tree.js": "/static/js/Tree.3b87c3ae.chunk.js",
     "main.css": "/static/css/main.fe6c5a56.chunk.css",
     "main.js": "/static/js/main.09c3f158.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.54dab298.js",
+    "runtime-main.js": "/static/js/runtime-main.1ed28437.js",
     "static/css/24.e6490ff4.chunk.css": "/static/css/24.e6490ff4.chunk.css",
     "static/js/24.627e437e.chunk.js": "/static/js/24.627e437e.chunk.js",
     "static/js/25.7c6960a3.chunk.js": "/static/js/25.7c6960a3.chunk.js",
@@ -105,7 +105,7 @@
     "static/css/Music.f3d4cc35.chunk.css.map": "/static/css/Music.f3d4cc35.chunk.css.map",
     "static/css/Settings.620cc21c.chunk.css.map": "/static/css/Settings.620cc21c.chunk.css.map",
     "static/css/TestPage.a973c113.chunk.css.map": "/static/css/TestPage.a973c113.chunk.css.map",
-    "static/css/Todo.5951b235.chunk.css.map": "/static/css/Todo.5951b235.chunk.css.map",
+    "static/css/Todo.3cd3d93d.chunk.css.map": "/static/css/Todo.3cd3d93d.chunk.css.map",
     "static/css/Tree.37335aa9.chunk.css.map": "/static/css/Tree.37335aa9.chunk.css.map",
     "static/css/main.fe6c5a56.chunk.css.map": "/static/css/main.fe6c5a56.chunk.css.map",
     "static/js/0.d0a78588.chunk.js.LICENSE.txt": "/static/js/0.d0a78588.chunk.js.LICENSE.txt",
@@ -125,7 +125,7 @@
     "static/media/index.module.scss": "/static/media/login.f3336f08.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.54dab298.js",
+    "static/js/runtime-main.1ed28437.js",
     "static/js/25.7c6960a3.chunk.js",
     "static/css/main.fe6c5a56.chunk.css",
     "static/js/main.09c3f158.chunk.js"
